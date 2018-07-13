@@ -7,5 +7,3 @@ Servlet - JSP - Hibernate 5 -  validations
 
 Login - Registration - Web chating page
 
-
-
